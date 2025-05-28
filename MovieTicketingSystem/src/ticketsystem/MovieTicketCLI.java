@@ -1,5 +1,3 @@
-package ticketsystem;
-
 import java.util.*;
 
 public class MovieTicketCLI {
